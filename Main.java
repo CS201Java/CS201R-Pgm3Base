@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.FileNotFoundException;
 //NAME:
 //ASSIGNMENT:
-//LAB SECTION
+//LAB SECTION:
 //LECTURE SECTION:
 
 public class Main{
